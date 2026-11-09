@@ -1,0 +1,44 @@
+[2026-11-09T21:20:01.188Z][INFO] Command-line: /home/gabs/Unity/Hub/Editor/6000.6.5f1/Editor/Data/Resources/PackageManager/Server/UnityPackageManager server -s 135827 --ipc-path /tmp/Unity-Upm-135827.sock -l 2 --log-file '/home/gabs/Documentos/Code/Unity/Rocket_simulator/Rocket Simulator/Logs/upm.log'
+[2026-11-09T21:20:01.272Z][INFO] IPC server started (IPC path=/tmp/Unity-Upm-135827.sock).
+[2026-11-09T21:20:01.273Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-135827.
+[2026-11-09T21:20:16.566Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-09T21:20:16.591Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-09T21:20:17.030Z][INFO] project:list-packages --> 200 (464 ms)
+[2026-11-09T21:20:20.718Z][INFO] project:list-packages --> 200 (4127 ms)
+[2026-11-09T21:20:20.939Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-09T21:20:20.950Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-09T21:20:20.977Z][INFO] config:project:get-registries --> 200 (38 ms)
+[2026-11-09T21:20:21.141Z][INFO] project:list-packages --> 200 (191 ms)
+[2026-11-09T21:20:21.829Z][INFO] project:update-dependencies <-- Request received
+params: {}
+[2026-11-09T21:20:21.879Z][INFO] project:update-dependencies --> 200 (49 ms)
+[2026-11-09T21:20:21.900Z][INFO] project:resolve-packages <-- Request received
+params: {}
+[2026-11-09T21:20:34.273Z][INFO] project:resolve-packages --> 200 (12373 ms)
+[2026-11-09T21:21:00.303Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-09T21:21:00.375Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-09T21:21:00.606Z][INFO] project:list-packages --> 200 (303 ms)
+[2026-11-09T21:21:00.778Z][INFO] project:list-packages --> 200 (403 ms)
+[2026-11-09T21:21:02.244Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-09T21:21:02.252Z][INFO] config:project:get-registries --> 200 (8 ms)
+[2026-11-09T21:21:44.183Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.collab-proxy"
+}
+[2026-11-09T21:21:45.358Z][INFO] packages:get-packageinfo --> 200 (1176 ms)
+[2026-11-09T21:21:46.536Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-09T21:21:46.720Z][INFO] project:list-packages --> 200 (184 ms)
+[2026-11-09T21:21:48.948Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-09T21:21:49.133Z][INFO] project:list-packages --> 200 (185 ms)
+[2026-11-09T21:21:55.837Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-09T21:21:58.626Z][INFO] project:list-packages --> 200 (2789 ms)
