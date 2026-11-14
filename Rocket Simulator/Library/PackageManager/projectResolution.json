@@ -29,13 +29,13 @@
       "source": "registry",
       "testable": false
     },
-    "com.unity.ide.visualstudio@2.0.28": {
+    "com.unity.ide.visualstudio@2.0.29": {
       "name": "com.unity.ide.visualstudio",
       "displayName": "Visual Studio Editor",
-      "resolvedPath": "/home/gabs/Documentos/Code/Unity/Rocket_simulator/Rocket Simulator/Library/PackageCache/com.unity.ide.visualstudio@b5edea5f33f4",
-      "fingerprint": "b5edea5f33f465d32f460eacd830347ed935b65f",
+      "resolvedPath": "/home/gabs/Documentos/Code/Unity/Rocket_simulator/Rocket Simulator/Library/PackageCache/com.unity.ide.visualstudio@42af3a235209",
+      "fingerprint": "42af3a235209974579e5d38b6839611458b5a0dd",
       "editorCompatibility": "2021.3.0a1",
-      "version": "2.0.28",
+      "version": "2.0.29",
       "source": "registry",
       "testable": false
     },
@@ -46,6 +46,16 @@
       "fingerprint": "7a4e1a2a81941121ffc0721a14009b46299dada1",
       "editorCompatibility": "6000.0.0a1",
       "version": "1.20.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.probuilder@6.1.4": {
+      "name": "com.unity.probuilder",
+      "displayName": "ProBuilder",
+      "resolvedPath": "/home/gabs/Documentos/Code/Unity/Rocket_simulator/Rocket Simulator/Library/PackageCache/com.unity.probuilder@7ffe746297d0",
+      "fingerprint": "7ffe746297d03335276b9d386e2b23303a216e94",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "6.1.4",
       "source": "registry",
       "testable": false
     },
@@ -398,13 +408,14 @@
       "source": "builtin",
       "testable": false
     },
-    "com.unity.test-framework@1.8.0": {
-      "name": "com.unity.test-framework",
-      "displayName": "Test Framework",
-      "resolvedPath": "/home/gabs/Documentos/Code/Unity/Rocket_simulator/Rocket Simulator/Library/PackageCache/com.unity.test-framework@33f8a1e9aefd",
-      "fingerprint": "33f8a1e9aefd70df9b79eced968f271c0a4b1c51",
-      "version": "1.8.0",
-      "source": "builtin",
+    "com.unity.settings-manager@2.1.1": {
+      "name": "com.unity.settings-manager",
+      "displayName": "Settings Manager",
+      "resolvedPath": "/home/gabs/Documentos/Code/Unity/Rocket_simulator/Rocket Simulator/Library/PackageCache/com.unity.settings-manager@0b8638c5ce86",
+      "fingerprint": "0b8638c5ce86009d785da17b17aaf629047f64ce",
+      "editorCompatibility": "2022.3.0a1",
+      "version": "2.1.1",
+      "source": "registry",
       "testable": false
     },
     "com.unity.ext.nunit@2.1.0": {
@@ -471,6 +482,15 @@
       "editorCompatibility": "2019.4.0a1",
       "version": "1.11.6",
       "source": "registry",
+      "testable": false
+    },
+    "com.unity.test-framework@1.8.0": {
+      "name": "com.unity.test-framework",
+      "displayName": "Test Framework",
+      "resolvedPath": "/home/gabs/Documentos/Code/Unity/Rocket_simulator/Rocket Simulator/Library/PackageCache/com.unity.test-framework@33f8a1e9aefd",
+      "fingerprint": "33f8a1e9aefd70df9b79eced968f271c0a4b1c51",
+      "version": "1.8.0",
+      "source": "builtin",
       "testable": false
     },
     "com.unity.test-framework.performance@6.6.0": {

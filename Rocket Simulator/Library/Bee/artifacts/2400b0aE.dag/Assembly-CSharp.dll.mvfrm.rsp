@@ -18,6 +18,10 @@ Library/Bee/artifacts/mvdfrm/Unity.PathTracing.Editor.ref.dll_742D6C2A6A5073F2.m
 Library/Bee/artifacts/mvdfrm/Unity.PathTracing.Runtime.ref.dll_AE8EB1A4ADBF4619.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.PlasticSCM.Editor.Assistant.ref.dll_8C7745DFD6ADC950.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.PlasticSCM.Editor.ref.dll_F0D9BA1F3F167740.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.ProBuilder.AddOns.Editor.ref.dll_5FD479550C8D1B5C.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.ProBuilder.AssetIdRemapUtility.ref.dll_109A89FBD4156592.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.ProBuilder.Editor.ref.dll_AF0DF0615957695F.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.ProBuilder.ref.dll_2E886AB564C0DB72.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.Profiling.Core.ref.dll_BB57BE87EB72E14B.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.RenderPipeline.Universal.ShaderLibrary.ref.dll_DFD8F2B83DCEE681.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.RenderPipelines.Core.Editor.Shared.ref.dll_392028955DEA8D1E.mvfrm
@@ -36,6 +40,7 @@ Library/Bee/artifacts/mvdfrm/Unity.RenderPipelines.Universal.Shaders.ref.dll_AD1
 Library/Bee/artifacts/mvdfrm/Unity.Rendering.LightTransport.Editor.ref.dll_7EDFCE24688A3F58.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.Rider.Editor.ref.dll_9145F68A59D35CE5.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.Searcher.Editor.ref.dll_593125D8983B03B8.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.Settings.Editor.ref.dll_C5D459AC3FA0C65A.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.ShaderGraph.Editor.ref.dll_B25B70C7A7E5DF46.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.SurfaceCache.Runtime.ref.dll_4279B157D1C77793.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.TextMeshPro.Editor.ref.dll_B8A961BBD8ABE0FC.mvfrm
